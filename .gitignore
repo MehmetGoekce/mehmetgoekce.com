@@ -1,0 +1,13 @@
+clover.xml
+coveralls-upload.json
+phpunit.xml
+vendor/
+*.log
+.env
+/log
+data/cache
+public/js/
+public/css/
+public/images/
+public/fonts/
+
